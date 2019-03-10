@@ -9,7 +9,7 @@ print("if you do want that, hit 'return'.")
 input("?")
 
 print("opening file...")
-target = open(filename, 'a')
+target = open(filename, 'w')
 
 print("truncating the file. bye!")
 target.truncate()
