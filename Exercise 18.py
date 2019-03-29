@@ -12,7 +12,7 @@ def print_none():
     print("nothing here.")
 
 
-print_two("Zed2", "shaw")
+print_two("Zed", "shaw")
 print_two_again("Zed", "shaw")
 print_one("first!")
 print_none()
